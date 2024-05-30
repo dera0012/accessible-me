@@ -81,6 +81,22 @@ form button {
 
 }
 
+.main-nav ul li {
+  height: 70px;
+  justify-content: center;
+  
+
+  
+ 
+  
+}
+
+.site-header h1{
+  color: white;
+  background-color: #404040;
+  border: solid 5px rgb(99, 60, 6);
+}
+
 .site-header h1{
   border-style: solid;
   text-align: center;
@@ -101,20 +117,44 @@ form button {
 .main-content p{
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  padding: 20px;
-  font-size: 20px;
+  padding: 20px ;
+  font-size: 25px;
   background-color: #404040;
   color: white;
-  backface-visibility: 50%;
   
+  
+  
+}
+
+.main-content .owner{
+  background-color: #404040;
+  color: white;
+  margin: 50px 0;
+  padding: 20px 0;
 }
 
 .main-content .owner ul li{
   text-align: center;
   list-style-type: none;
+  font-size: 25px;
+  
 
 }
 
 .content-section form{
   text-align: center;
+  
+}
+
+ form input{
+  height: 50px;
+  font-size: large;
+  background-color: #404040;
+  color: white;
+  margin: 20px 0;
+}
+
+form label{
+  font-size: large;
+  padding: 10px 0;
 }
