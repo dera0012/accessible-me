@@ -80,3 +80,11 @@ form button {
   color: white;
 
 }
+
+.site-header h1{
+  border-style: solid;
+  text-align: center;
+  padding: 50px;
+  font-weight: 2000;
+}
+
