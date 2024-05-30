@@ -97,3 +97,10 @@ form button {
   text-align: center;
   font-size: large;
 }
+
+.main-content .owner ul li{
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+  
+}
