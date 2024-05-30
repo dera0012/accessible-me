@@ -158,3 +158,9 @@ form label{
   font-size: large;
   padding: 10px 0;
 }
+
+form textarea{
+  color: white;
+  background-color: #404040;
+  margin: 20px 0;
+}
