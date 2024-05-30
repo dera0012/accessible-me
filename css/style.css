@@ -91,3 +91,9 @@ form button {
 .main-content h1{
   text-align: center;
 }
+
+.main-content p{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: large;
+}
